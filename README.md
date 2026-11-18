@@ -41,8 +41,9 @@ Dit zijn vragen die klasgenoten me stelde over mijn website:
 -Soul
 
 - Mijn onderwerp voor de Digital Garden is: De game Deltarune
-- Mijn sfeer- of kernwoord(en) is/zijn:
+- Mijn sfeer- of kernwoord(en) is/zijn: Hope
 
+Ik volgde het practicum mooie kleuren en gradientse
 Donderdag 19 november
 
 Vrijdag 20 november
