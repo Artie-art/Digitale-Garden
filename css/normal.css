@@ -22,6 +22,9 @@
 
 html {
   color-scheme: light dark;
+  --background: light-dark(#d9a171, #322c59);
+  --color: light-dark(#6d7343, #32a685);
+  --border-color: light-dark(#d9c382, #91d2d9);
 }
 
 /**************************
@@ -40,6 +43,9 @@ img {
 
 body {
   font-family: "Determination Mono", system-ui;
+  background-color: var(--background);
+  color: var(--color);
+  border-color: var(--border-color);
 }
 
 /**************************
