@@ -53,5 +53,9 @@ Vrijdag 20 november
 -Ik heb de gedownloade fonts DeterminatinoMonoWebRegular en deltaruene ingevoerd op mijn website.
 
 Zaterdag 21 november
+-Werkte ik verder aan het maken van de website.
 
 Zondag 22 november
+
+Maandag 23 november
+-Hadden we de eerste Bi-weekly Geek. We hadden het over het Internet, bijvoorbeeld wat het is en wie er controle over moet hebben.

@@ -63,6 +63,11 @@ footer {
 **************************/
 
 main {
+  max-width: 30em;
+  margin: auto;
+  display: grid;
+  gap: var(--whitespace-s);
+  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 }
 
 /**************************
