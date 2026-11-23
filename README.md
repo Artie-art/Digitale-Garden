@@ -8,7 +8,7 @@ Dinsdag 10 november
 
 Woensdag 11 november
 -Was ik weer beter genoeg om naar de les te gaan. We krijgen uitleg over de Digital Garden. En ik kwam erachter dat we dit blok een website gaan maken. Ik heb ook een redesign gemaakt voor de Wok to Walk website als oefening voor het designen van de website die we zullen maken.
-<img src="Hva wok to walk redesign.png" alt="Wok to walk herontwerpwebsite">
+<img src="./readme-images/Hva wok to walk redesign.png" alt="Wok to walk herontwerpwebsite">
 
 Donderdag 12 november
 -Er was donderdag geen les. Maar ik werkte aan het bijwerken van wat ik had gemist.
@@ -44,7 +44,14 @@ Dit zijn vragen die klasgenoten me stelde over mijn website:
 - Mijn onderwerp voor de Digital Garden is: De game Deltarune
 - Mijn sfeer- of kernwoord(en) is/zijn: Hope
 
-Ik volgde het practicum mooie kleuren en gradientse
+-Ik volgde het practicum mooie kleuren en gradients
+
 Donderdag 19 november
+-Ik downloade verschillende fonts die uit de game komen en die zullen passen bij mijn website.
 
 Vrijdag 20 november
+-Ik heb de gedownloade fonts DeterminatinoMonoWebRegular en deltaruene ingevoerd op mijn website.
+
+Zaterdag 21 november
+
+Zondag 22 november
