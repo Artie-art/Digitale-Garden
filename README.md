@@ -25,6 +25,13 @@ Maandag 16 november
 
 Dinsdag 17 november
 -Ik was bij het practicum van Light & Dark. We maakte de oefening die hoorden bij het practicum.
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-licht en donker én klein en groot.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-2 themes oefening.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-inline SVG icon.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-oefening 2 foto aanpassing door ChatGPT.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-oefening 2 foto dark.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-oefening 2 foto light.png">
+<img src="./readme-images/Hva HWIVI-deep dive-light & dark-picture oefening-uitwerking.png">
 
 Woensdag 18 november
 -We hielden presentaties over ons zelfgekozen onderwerp voor de website.
@@ -59,3 +66,5 @@ Zondag 22 november
 
 Maandag 23 november
 -Hadden we de eerste Bi-weekly Geek. We hadden het over het Internet, bijvoorbeeld wat het is en wie er controle over moet hebben.
+
+-Ik werkte verder aan de html van mijn website en update de README.
