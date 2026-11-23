@@ -40,6 +40,8 @@ Dit zijn vragen die klasgenoten me stelde over mijn website:
 -Ga je ook dingen uit de game op de site zelf zetten?
 -Ik zette de link naar mijn GitHub repository in het Excel bestand op Teams.
 
+-We maakte een Crazy 8.
+
 -De docent raadde ook aan om te kijken naar mijn onderwerp. En dan te kijken naar bijvoorbeeld de community van de game. En aspecten van de game zoals het verhaal.
 
 -De docent raadde me aan om een sfeerwoord/kernwoord te bedenken die past bij de game. Dit was lastig want Deltarune is een erg complexe game. Dus raadde de docent me aan meerdere kernwoorden op te schrijven.
