@@ -182,6 +182,11 @@ body {
   background-color: var(--background);
   color: var(--color);
   border-color: var(--border-color);
+  background-image: url("../images/Deltarune-Kris-makes-a-Dark-Fountain-Extendeder.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
 }
 
 /**************************
@@ -191,6 +196,13 @@ body {
 header {
   font-family: "deltarune", system-ui;
   display: flex;
+  flex-direction: column;
+  h1 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
 }
 
 /**************************
@@ -205,11 +217,6 @@ header {
 **************************/
 
 main {
-  /* max-width: 30em;
-  margin: auto;
-  display: grid;
-  gap: var(--whitespace-s);
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr)); */
 }
 
 img {
