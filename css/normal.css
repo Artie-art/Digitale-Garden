@@ -36,8 +36,7 @@ html {
   box-sizing: border-box;
 }
 
-html,
-body {
+html {
   height: 100%;
 }
 
@@ -182,11 +181,19 @@ body {
   background-color: var(--background);
   color: var(--color);
   border-color: var(--border-color);
+
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+}
+
+wrapper {
+  display: block;
   background-image: url("../images/Deltarune-Kris-makes-a-Dark-Fountain-Extendeder.png");
-  background-size: cover;
+  background-size: auto 100%;
   background-position: center;
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
+  background-color: black;
 }
 
 /**************************
@@ -199,9 +206,15 @@ header {
   flex-direction: column;
   h1 {
     text-align: center;
+    font-size: 80px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 60px;
   }
   p {
     text-align: center;
+    font-size: 50px;
   }
 }
 
@@ -209,14 +222,16 @@ header {
 * MARK: Footer
 **************************/
 
-/* footer {
-} */
+footer {
+  font-size: 40px;
+}
 
 /**************************
 * MARK: Main
 **************************/
 
 main {
+  font-size: 30px;
 }
 
 img {
@@ -226,3 +241,21 @@ img {
 /**************************
 * MARK: Section ...
 **************************/
+
+/**************************
+* MARK: footer met webring ...
+**************************/
+
+.webring {
+}
+
+.webring h2 {
+  font-size: 40px;
+}
+
+.webring ul {
+}
+
+.webring a {
+  font-size: 40px;
+}
