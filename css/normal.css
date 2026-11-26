@@ -189,7 +189,11 @@ body {
 
 wrapper {
   display: block;
-  background-image: url("../images/Deltarune-Kris-makes-a-Dark-Fountain-Extendeder.png");
+  background-image: light-dark(
+    url("../images/Deltarune-Dreemurr-Residence-before-the-Dark-Fountain-brown-background.png"),
+    url("../images/Deltarune-Kris-makes-a-Dark-Fountain-Extendeder.png")
+  );
+
   background-size: auto 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -206,15 +210,15 @@ header {
   flex-direction: column;
   h1 {
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
   }
   h2 {
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
   }
   p {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
@@ -223,7 +227,7 @@ header {
 **************************/
 
 footer {
-  font-size: 40px;
+  font-size: 20px;
 }
 
 /**************************
@@ -250,12 +254,12 @@ img {
 }
 
 .webring h2 {
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .webring ul {
 }
 
 .webring a {
-  font-size: 40px;
+  font-size: 20px;
 }

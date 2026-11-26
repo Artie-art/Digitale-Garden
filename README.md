@@ -54,12 +54,19 @@ Dit zijn vragen die klasgenoten me stelde over mijn website:
 - Mijn sfeer- of kernwoord(en) is/zijn: Hope
 
 -Ik volgde het practicum mooie kleuren en gradients
+<img src="./readme-images/Hva HWIVI-deep dive-kleur-gradients meetypen.png">
+<img src="./readme-images/Hva HWIVI-deep dive-kleur-kleur meetypen.png">
+<img src="./readme-images/Hva HWIVI-deep dive-kleur-oefening 1.png">
+<img src="./readme-images/Hva HWIVI-deep dive-kleur-oefening 2.png">
 
 Donderdag 19 november
 -Ik downloade verschillende fonts die uit de game komen en die zullen passen bij mijn website.
 
 Vrijdag 20 november
 -Ik heb de gedownloade fonts DeterminatinoMonoWebRegular en deltaruene ingevoerd op mijn website.
+-Ik volgde het Practicum Grid 101+ Media queries 101 (Sanne)
+<img src="./readme-images/Hva HWIVI-deep dive-grid-oefening 1 som 10.png">
+<img src="./readme-images/Hva HWIVI-deep dive-grid-oefening 1 som 9.png">
 
 Zaterdag 21 november
 -Werkte ik verder aan het maken van de website.
@@ -70,3 +77,17 @@ Maandag 23 november
 -Hadden we de eerste Bi-weekly Geek. We hadden het over het Internet, bijvoorbeeld wat het is en wie er controle over moet hebben.
 
 -Ik werkte verder aan de html van mijn website en update de README.
+
+Dinsdag 24 november
+-Ik had het practicum Everything Images (Vasilis)
+We hadden uitleg over images.
+<img src="./readme-images/Hva HWIVI-deep dive-Everything-Images-background.png">
+<img src="./readme-images/Hva HWIVI-deep dive-Everything-Images-content.png">
+
+Woensdag 25 november
+Ik voegde achtergrond images voor beide licht en donker toe.
+-Practicum hulp met laatste lootjes (Sanne)
+
+Donderdag 26 november
+-Ik was bezig met een andere afbeeldingen toe te voegen als background images zodat ze wat meer gelijk staan.
+-Ik vulde mijn Readme aan.
